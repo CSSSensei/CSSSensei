@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
   
 ### **Databases**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
   
 ### **Development Tools**  
   [![My Skills](https://skillicons.dev/icons?i=git,clion,pycharm,idea,notion)](https://skillicons.dev)
