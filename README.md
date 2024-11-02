@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 📫You can reach me in Telegram: @nklnkk
 
-🛠️ **Technologies & Tools:**
-- **Languages:**  
+## **Technologies & Tools**
+### **Languages**  
   [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,kotlin)](https://skillicons.dev)
   
-- **Backend Development:**  
+### **Backend Development**  
   [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
   
-- **Databases:**  
+### **Databases**  
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
-- **Development Tools:**  
+### **Development Tools**  
   [![My Skills](https://skillicons.dev/icons?i=git,clion,pycharm,idea,notion)](https://skillicons.dev)
 
-😄 Pronouns: He/Him
+😄 **Pronouns:** He/Him
 
-⚡ Fun fact: Humans are deuterostomes, which means that when they develop in the womb the anus forms before any other opening. Which basically means at one point you were nothing but an asshole. Some people never develop
+⚡ **Fun fact:** Humans are deuterostomes, which means that when they develop in the womb the anus forms before any other opening. Which basically means at one point you were nothing but an asshole. Some people never develop
 beyond this stage
