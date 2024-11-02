@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## **Technologies & Tools**
 ### **Languages**  
-  [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,kotlin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,kotlin)](https://skillicons.dev)
   
 ### **Backend Development**  
   [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
