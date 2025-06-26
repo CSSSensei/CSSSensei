@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently studying Computer Science at MEPHI University
 
-📫You can reach me in Telegram: @nklnkk
+📫You can reach me in Telegram: @meoooo0w
 
 ## **Technologies & Tools**
 ### **Languages**  
