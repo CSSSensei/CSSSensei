@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun fact:** Humans are deuterostomes, which means that when they develop in the womb the anus forms before any other opening. Which basically means at one point you were nothing but an asshole. Some people never develop
-beyond this stage
+⚡ **Fun fact:** python reduces your IQ by 10-20 units
