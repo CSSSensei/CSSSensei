@@ -23,7 +23,7 @@ I’m mostly interested in Python Backend Developing.
  I’m currently studying Computer Science at MEPHI University
 
 <a href="https://tg.yan-toples.ru"><img width="80" height="40" alt="telegram" src="https://github.com/user-attachments/assets/584def9b-b769-402e-8eb1-369fd9f9a0fd" /></a>
-You can reach me in Telegram: [@meoooo0w](https://tg.yan-toples.ru)
+You can reach me in Telegram: [@nataliaa_audi](https://tg.yan-toples.ru)
 
 ## **Technologies & Tools**
 ### **Languages**  
@@ -36,11 +36,9 @@ You can reach me in Telegram: [@meoooo0w](https://tg.yan-toples.ru)
   [![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql)](https://skillicons.dev)
   
 ### **Development Tools**  
-  [![My Skills](https://skillicons.dev/icons?i=git,clion,pycharm,webstorm,idea,notion,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,clion,pycharm,webstorm,idea,notion,linux)](https://skillicons.dev)
 
   [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CSSSensei&height=300&theme=dracula&hide_border=true&days=365)](https://github.com/CSSSensei/github-readme-activity-graph)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSSSensei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img width="80" alt="me" src="https://media.tenor.com/sUgOoWn3e2MAAAAi/chuqui-nerd.gif"/> **Fun fact:** python reduces your IQ by 10-20 units
