@@ -25,6 +25,10 @@ I’m mostly interested in Python Backend Developing.
 <a href="https://tg.yan-toples.ru"><img width="80" height="40" alt="telegram" src="https://github.com/user-attachments/assets/584def9b-b769-402e-8eb1-369fd9f9a0fd" /></a>
 You can reach me in Telegram: [@nataliaa_audi](https://tg.yan-toples.ru)
 
+<a href="https://github.com/Phasalo/N_notation"><img width="80" alt="image" src="https://github.com/user-attachments/assets/8be2d641-b469-4831-a5dd-5ab96381cfa4" /></a>
+The creator of N notation at Phasalo
+
+
 ## **Technologies & Tools**
 ### **Languages**  
   [![My Skills](https://skillicons.dev/icons?i=py,golang,cpp,c,kotlin,html,css,js)](https://skillicons.dev)
